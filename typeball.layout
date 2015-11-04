@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="include/definitions.h" open="0" top="0" tabpos="0">
+		<Cursor position="695" topLine="0" />
+	</File>
+	<File name="include/engine/Q3map.h" open="0" top="0" tabpos="2">
+		<Cursor position="1527" topLine="80" />
+	</File>
+	<File name="include/engine/engine.h" open="1" top="0" tabpos="2">
+		<Cursor position="585" topLine="0" />
+	</File>
+	<File name="include/engine/map.h" open="0" top="0" tabpos="0">
+		<Cursor position="612" topLine="0" />
+	</File>
+	<File name="include/engine/texture_manager.h" open="0" top="0" tabpos="0">
+		<Cursor position="663" topLine="0" />
+	</File>
+	<File name="include/engine/wiimote.h" open="1" top="0" tabpos="4">
+		<Cursor position="344" topLine="0" />
+	</File>
+	<File name="include/engine/wiiuse.h" open="0" top="0" tabpos="0">
+		<Cursor position="11465" topLine="252" />
+	</File>
+	<File name="include/gl.h" open="0" top="0" tabpos="0">
+		<Cursor position="187" topLine="0" />
+	</File>
+	<File name="include/math/mat.h" open="0" top="0" tabpos="0">
+		<Cursor position="668" topLine="0" />
+	</File>
+	<File name="include/math/matrix.h" open="0" top="0" tabpos="0">
+		<Cursor position="407" topLine="0" />
+	</File>
+	<File name="include/render/camera.h" open="0" top="0" tabpos="1">
+		<Cursor position="885" topLine="4" />
+	</File>
+	<File name="include/render/render.h" open="0" top="0" tabpos="6">
+		<Cursor position="232" topLine="0" />
+	</File>
+	<File name="src/engine/Q3map.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="12849" topLine="0" />
+	</File>
+	<File name="src/engine/engine.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="956" topLine="99" />
+	</File>
+	<File name="src/engine/texture_manager.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1655" topLine="39" />
+	</File>
+	<File name="src/engine/wiimote.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="5665" topLine="183" />
+	</File>
+	<File name="src/engine/wiiuse.c" open="0" top="0" tabpos="0">
+		<Cursor position="1124" topLine="12" />
+	</File>
+	<File name="src/main.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="src/math/mat.c" open="0" top="0" tabpos="0">
+		<Cursor position="784" topLine="21" />
+	</File>
+	<File name="src/math/matrix.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2779" topLine="13" />
+	</File>
+	<File name="src/render/Q3map.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/render/camera.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="7356" topLine="312" />
+	</File>
+	<File name="src/render/render.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="3235" topLine="117" />
+	</File>
+</CodeBlocks_layout_file>

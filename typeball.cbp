@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="5" />
+	<Project>
+		<Option title="typeball" />
+		<Option pch_mode="2" />
+		<Option default_target="" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/typeball" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="include/definitions.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/engine/Q3map.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/engine/engine.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/engine/map.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/engine/mouse.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="include/engine/texture_manager.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/engine/wiimote.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/engine/wiiuse.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/gl.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="include/math/mat.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/math/matrix.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="include/math/vector.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="include/render/camera.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/render/render.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="include/str.h">
+			<Option compilerVar="CPP" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="src/engine/Q3map.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/engine/engine.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/engine/texture_manager.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/engine/wiimote.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/engine/wiiuse.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/main.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/math/mat.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/math/matrix.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/math/vector.cpp">
+			<Option compilerVar="CPP" />
+		</Unit>
+		<Unit filename="src/render/Q3map.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/render/camera.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/render/render.cpp">
+			<Option compilerVar="CPP" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="src/str.c">
+			<Option compilerVar="CC" />
+			<Option target="Release" />
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
